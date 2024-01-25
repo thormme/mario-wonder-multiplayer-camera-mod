@@ -1,6 +1,6 @@
 {
-	"name":	"Application",
-	"title_id":	"0x0100801011c3e000",
+	"name":	"Super Mario Bros. Wonder [010015100B514000] v1.0.0",
+	"title_id":	"0x010015100B514000",
 	"title_id_range_min":	"0x0100000000010000",
 	"title_id_range_max":	"0x01ffffffffffffff",
 	"main_thread_stack_size":	"0x00100000",
@@ -11,6 +11,7 @@
 	"pool_partition":	0,
 	"is_64_bit":	true,
 	"address_space_type":	3,
+    "system_resource_size": "0x01000000",
 	"filesystem_access":	{
 		"permissions":	"0xffffffffffffffff"
 	},
